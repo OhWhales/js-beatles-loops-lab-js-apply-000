@@ -32,6 +32,5 @@ function iLoveTheBeatles(num)
     myArray.push(sentence);
     num++;
   } while (num < 15);
-  
   return myArray;
 }
