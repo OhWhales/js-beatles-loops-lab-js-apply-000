@@ -9,6 +9,7 @@ function theBeatlesPlay(musicians, instruments)
   }
   return myArray;
 }
+
 function johnLennonFacts(sayings)
 {
   var i=0;
@@ -20,4 +21,8 @@ function johnLennonFacts(sayings)
     i++;
   }
   return myArray;
+}
+function iLoveTheBeatles(num)
+{
+  
 }
