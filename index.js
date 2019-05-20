@@ -24,5 +24,5 @@ function johnLennonFacts(sayings)
 }
 function iLoveTheBeatles(num)
 {
-  
+  var myArray=[];
 }
