@@ -12,7 +12,7 @@ function theBeatlesPlay(musicians, instruments)
 function johnLennonFacts(sayings)
 {
   var i=0;
-  var myArray[];
+  var myArray=[];
   while (i < sayings.length)
   {
     var singleSaying= sayings[i] + "!!!";
