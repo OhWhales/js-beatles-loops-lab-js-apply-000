@@ -25,11 +25,12 @@ function johnLennonFacts(sayings)
 function iLoveTheBeatles(num)
 {
   var myArray=[];
-  var i=0;
   do 
   {
     var sentence= "I love the Beatles!";
     myArray.push(sentence);
-    
-  }
+    num++;
+  } while (num < 15);
+  
+  return myArray;
 }
