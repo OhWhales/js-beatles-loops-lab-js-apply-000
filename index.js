@@ -7,4 +7,5 @@ function theBeatlesPlay(musicians, instruments)
     var sentence=musicians[i] + " plays " + instruments[i];
     myArray.push(sentence);
   }
+  return myArray;
 }
