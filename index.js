@@ -11,5 +11,11 @@ function theBeatlesPlay(musicians, instruments)
 }
 function johnLennonFacts(sayings)
 {
-  for (var i=0; i < sayings.length; i++)
+  var i=0;
+  var myArray[];
+  while (i < sayings.length)
+  {
+    var sayingsAtPosition= 
+    i++;
+  }
 }
