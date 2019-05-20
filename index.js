@@ -25,4 +25,5 @@ function johnLennonFacts(sayings)
 function iLoveTheBeatles(num)
 {
   var myArray=[];
+  let sentence= "I love the Beatles!";
 }
