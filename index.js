@@ -15,7 +15,8 @@ function johnLennonFacts(sayings)
   var myArray[];
   while (i < sayings.length)
   {
-    var sayingsAtPosition= 
+    var singleSaying= sayings[i] + "!!!";
+    myArray.push(singleSaying);
     i++;
   }
 }
