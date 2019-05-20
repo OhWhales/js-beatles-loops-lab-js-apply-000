@@ -19,4 +19,5 @@ function johnLennonFacts(sayings)
     myArray.push(singleSaying);
     i++;
   }
+  return myArray;
 }
